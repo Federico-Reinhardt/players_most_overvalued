@@ -49,9 +49,7 @@ Objetivo del Proyecto
 
 El objetivo principal es identificar y analizar:
 
-Jugadores sobrevalorados: Aquellos cuyas tarifas de transferencia exceden su valor de mercado estimado.
-
-Patrones en transferencias: Como nacionalidad, edad, posición, y rentabilidad de las transferencias.
+Jugadores sobrevalorados: Aquellos cuyas valores de transferencia exceden su valor de mercado estimado.
 
 El valor de mercado de los jugadores es una estimación realizada por el equipo de Transfermarkt, basado en factores como rendimiento, edad, y popularidad.
 
