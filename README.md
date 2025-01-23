@@ -67,7 +67,7 @@ Conclusiones de analisis:
 
 A nivel internacional, podemos observar que en 2009 el Tottenham (Inglaterra) pago al Sheffield United, 40.000.000 euros por el defensor Kyle Walker de 19 años. Su valor de mercado era de 50.000 euros.
 
-Esto implica que se pago un + % 11700. Hoy en día sabemos que es un jugador muy exitosos. Mayormente estas compras son apuestas por clubes grandes por encontrar la joya.
+Esto implica que se pago un + % 11700. Hoy en día sabemos que es un jugador muy exitoso. Mayormente estas compras son apuestas por clubes grandes por encontrar la joya.
 
 ![kyle](https://github.com/user-attachments/assets/55186ab6-2239-4383-b52d-5b32f5ae10aa)
 
