@@ -81,5 +81,7 @@ En 2024 el Inter de Milán pago por el jugador Tomás Palacios 6.500.000 euros, 
 
 ![tomas-palacios-inter-milan-2024-2025-1051818524-1729091395-151561](https://github.com/user-attachments/assets/cff2b343-9f0e-49a9-9e6e-960e663c137a)
 
+Algunas transferencias sobrevaloradas post-mundial fue la de Enzo Fernandez, el Chelsea pago 121.000.000 por el mediocampista de 21 años. Su valor de mercado era de 55.000.000 euros. Un valor + % 120.
 
+![1010x567_enzo-fernandez-chelsea-480429-184327](https://github.com/user-attachments/assets/d3da19cf-ce4a-4556-b434-97e3c9b83a23)
 
