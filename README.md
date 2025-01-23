@@ -5,6 +5,34 @@
 
 Este proyecto analiza datos de transferencias de jugadores de fútbol para identificar aquellos casos en los que el valor de transferencia supera significativamente su valor de mercado de mercado. La base de datos utilizada fue extraída del sitio reconocido Transfermarkt y se encuentra almacenada en el archivo Futbol_data.db.
 
+Transfermarkt calcula el valor de mercado de los jugadores considerando varios factores, como la edad, el rendimiento, el potencial futuro, la demanda, el salario y el marketing. También toma en cuenta el contexto general y la situación del club. 
+
+Los valores de mercado de Transfermarkt se basan en el criterio de la comunidad, que evalúa y discute los valores de los jugadores. 
+
+Algunos de los factores que se consideran son: 
+
+La edad del jugador
+
+Su posición
+
+Su rendimiento en el club y en la selección nacional
+
+El nivel de la liga
+
+La reputación del jugador
+
+El potencial de desarrollo del jugador
+
+El valor de marketing del jugador
+
+La demanda del mercado
+
+Las perspectivas de futuro
+
+Los valores de mercado de los jugadores se actualizan dos veces por temporada, generalmente al final de la temporada y durante el mercado de invierno
+
+-----------------------------------------------------------------------
+
 La base de datos incluye las siguientes tablas principales:
 
 players: Información sobre los jugadores.
@@ -34,3 +62,18 @@ Este proyecto utiliza Python y las siguientes bibliotecas:
 sqlite3: Para la conexión y consulta de la base de datos SQLite.
 
 pandas: Para la manipulación y análisis de datos.
+
+Conclusiones de analisis:
+
+A nivel internacional, podemos observar que en 2009 el Tottenham (Inglaterra) pago al Sheffield United, 40.000.000 euros por el defensor Kyle Walker de 19 años. Su valor de mercado era de 50.000 euros.
+
+Esto implica que se pago un + % 11700. Hoy en día sabemos que es un jugador muy exitosos. Mayormente estas compras son apuestas por clubes grandes por encontrar la joya.
+
+En Argentina podemos observar que uno de los casos sobrevalorados fue la transferencia de Lucas Alario, en 2015 jugador de Colon de Santa Fe paso a River Plate. El valor de transferencia fue de 2.000.000 euros, cuando su valor de mercado era 50.000 euros.
+
+Esto indica que River Plate pago + % 3900 de su valor de mercado.
+
+En 2024 el Inter de Milán pago por el jugador Tomás Palacios 6.500.000 euros, procedente de Independiente Rivadavia. Su valor de mercado en 2024 era 
+
+
+
