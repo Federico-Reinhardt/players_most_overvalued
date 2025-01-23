@@ -3,7 +3,7 @@
 ![mkt](https://github.com/user-attachments/assets/4cf8488d-8b3f-4c77-9ba1-f0708d7d0751)
 
 
-Este proyecto analiza datos de transferencias de jugadores de fútbol para identificar aquellos casos en los que la tarifa de transferencia supera significativamente su valor de mercado estimado. La base de datos utilizada fue extraída del sitio reconocido Transfermarkt y se encuentra almacenada en el archivo Futbol_data.db.
+Este proyecto analiza datos de transferencias de jugadores de fútbol para identificar aquellos casos en los que el valor de transferencia supera significativamente su valor de mercado de mercado. La base de datos utilizada fue extraída del sitio reconocido Transfermarkt y se encuentra almacenada en el archivo Futbol_data.db.
 
 La base de datos incluye las siguientes tablas principales:
 
