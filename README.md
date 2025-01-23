@@ -7,6 +7,8 @@ Este proyecto analiza datos de transferencias de jugadores de fútbol para ident
 
 Transfermarkt calcula el valor de mercado de los jugadores considerando varios factores, como la edad, el rendimiento, el potencial futuro, la demanda, el salario y el marketing. También toma en cuenta el contexto general y la situación del club. 
 
+https://www.transfermarkt.es/definicion-de-valor-de-mercado/thread/forum/407/thread_id/2975
+
 Los valores de mercado de Transfermarkt se basan en el criterio de la comunidad, que evalúa y discute los valores de los jugadores. 
 
 Algunos de los factores que se consideran son: 
