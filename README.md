@@ -27,6 +27,8 @@ El valor de mercado de los jugadores es una estimación realizada por el equipo 
 
 Herramientas Utilizadas
 
+![python](https://github.com/user-attachments/assets/7f83fa20-9197-4216-b1af-3ba746de27e6)
+
 Este proyecto utiliza Python y las siguientes bibliotecas:
 
 sqlite3: Para la conexión y consulta de la base de datos SQLite.
