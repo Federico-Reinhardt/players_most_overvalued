@@ -69,11 +69,17 @@ A nivel internacional, podemos observar que en 2009 el Tottenham (Inglaterra) pa
 
 Esto implica que se pago un + % 11700. Hoy en día sabemos que es un jugador muy exitosos. Mayormente estas compras son apuestas por clubes grandes por encontrar la joya.
 
+![kyle](https://github.com/user-attachments/assets/55186ab6-2239-4383-b52d-5b32f5ae10aa)
+
 En Argentina podemos observar que uno de los casos sobrevalorados fue la transferencia de Lucas Alario, en 2015 jugador de Colon de Santa Fe paso a River Plate. El valor de transferencia fue de 2.000.000 euros, cuando su valor de mercado era 50.000 euros.
 
 Esto indica que River Plate pago + % 3900 de su valor de mercado.
 
-En 2024 el Inter de Milán pago por el jugador Tomás Palacios 6.500.000 euros, procedente de Independiente Rivadavia. Su valor de mercado en 2024 era 
+![lucas-alario](https://github.com/user-attachments/assets/df699875-9fbc-4866-8ed1-35f575fa143e)
+
+En 2024 el Inter de Milán pago por el jugador Tomás Palacios 6.500.000 euros, procedente de Independiente Rivadavia. Su valor de mercado en 2024 era 50.000 euros. Un + % 1200 adicional a su valor de mercado.
+
+![tomas-palacios-inter-milan-2024-2025-1051818524-1729091395-151561](https://github.com/user-attachments/assets/cff2b343-9f0e-49a9-9e6e-960e663c137a)
 
 
 
